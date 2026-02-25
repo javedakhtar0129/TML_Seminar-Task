@@ -1,0 +1,18 @@
+{
+  "description": "PUBLIC ground truth for self-evaluation during the challenge.",
+  "public_poisoned_images": [
+    "1393947190.jpg",
+    "1404471863.jpg",
+    "1425529973.jpg",
+    "1453011588.jpg",
+    "2165724565.jpg",
+    "2214132302.jpg",
+    "2264280779.jpg",
+    "2315285438.jpg",
+    "247618600.jpg",
+    "2818336787.jpg"
+  ],
+  "num_public_poisoned": 10,
+  "num_total_poisoned": 30,
+  "WARNING": "Final evaluation uses MORE poisoned images than listed here!"
+}

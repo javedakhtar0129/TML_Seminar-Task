@@ -22,4 +22,5 @@ Host/
 
 evaluator.py                     # Evaluates submission against ground truth
 Task Description.pdf             # Official task description
+Report.pdf                       # ICLR style final Report
 ```
